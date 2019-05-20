@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ushukiuqu.csilber.com/sitemap.xml
